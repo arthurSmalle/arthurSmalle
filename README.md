@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Arthur Smalle, I live in Belgium.
-- 👀 I’m **interested** in raccoons 🦝, video games, game development, cool arduino stuff and robotics
-- 🌱 I’m currently **learning** how to work with arduino
-- 💞️ I’m looking to **collaborate** on: noting yet...
-- 📫 How to **reach me**, **Discord**: Arti_Smarty#4126
+- Hi, I’m Arthur Smalle, I live in Belgium.
+- How to **reach me**, **Discord**: Arti_Smarty
 
 <!---
 arthurSmalle/arthurSmalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
